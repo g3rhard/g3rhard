@@ -11,9 +11,5 @@
 
 ## My GitHub Stats &#x1f4c8;
 
-<a href="https://github.com/g3rhard/g3rhard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g3rhard&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/g3rhard/g3rhard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=g3rhard&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Catalin's GitHub Stats" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3rhard&layout=compact)
+![G3rhard's github stats](https://github-readme-stats.vercel.app/api?username=g3rhard&count_private=true)
