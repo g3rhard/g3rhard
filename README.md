@@ -7,9 +7,10 @@
 - :speaking_head: :ru: :us:
 
 ## I am also lurking on ⚡
+
 [<img align="left" alt="g3rhard.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="g3rhard | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+<br />
 
 ## My GitHub Stats &#x1f4c8;
 
