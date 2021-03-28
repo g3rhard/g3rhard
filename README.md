@@ -7,9 +7,14 @@
 - :speaking_head: :ru: :us:
 
 ## I am also lurking on ⚡
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/g3rhard/) 
+[<img align="left" alt="g3rhard.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="g3rhard | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 ## My GitHub Stats &#x1f4c8;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g3rhard&layout=compact)
 ![G3rhard's github stats](https://github-readme-stats.vercel.app/api?username=g3rhard&count_private=true)
+
+[website]: https://g3rhard.github.io
+[linkedin]: https://linkedin.com/in/g3rhard
