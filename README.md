@@ -2,7 +2,7 @@
 
 ## Whois:
 - :moneybag: system administrator
-- :mailbox: best way to ask about my projects is via GitHub issues
+- :mailbox: best way to ask about my projects is via Telegram
 - :seedling: currently learning Terraform & Kubernetes
 - :speaking_head: :ru: :us:
 
@@ -10,6 +10,7 @@
 
 [<img align="left" alt="g3rhard.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="g3rhard | LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="g3rhard | Telegram" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 <br />
 
 ## My GitHub Stats &#x1f4c8;
@@ -19,3 +20,4 @@
 
 [website]: https://g3rhard.github.io
 [linkedin]: https://linkedin.com/in/g3rhard
+[telegram]: https://t.me/g3rhard
