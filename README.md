@@ -1,7 +1,7 @@
 # :wave: Hi there!
 
 - :moneybag: system engineer
-- :mailbox: best way to ask about my projects is via Telegram
+- :mailbox: best way to ask about my projects is via LinkedIn
 - :seedling: currently learning Terraform & Kubernetes & AWS
 - :speaking_head: :us: :ru: :poland:
 
