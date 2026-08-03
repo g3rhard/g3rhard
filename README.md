@@ -1,48 +1,53 @@
-# :wave: Hi there!
+# Hi, I'm Kirill 👋
 
-- :moneybag: system engineer
-- :mailbox: best way to ask about my projects is via [LinkedIn](https://linkedin.com/in/g3rhard)
-- :seedling: currently learning Terraform & Kubernetes & AWS
-- :speaking_head: :us: :ru: :poland:
+**Platform Engineer & Architect** working with infrastructure, automation, and reliable systems.
 
-## :hammer_and_wrench: Languages and Tools
+I build, automate, and document cloud platforms, delivery workflows, and operational tooling.
 
-![](https://img.shields.io/badge/OS-macOS-informational?style=for-the-badge&logo=macos&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Code-Make-informational?style=for-the-badge&logo=cmake&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Shell-PowerShell-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Tools-Terraform-informational?style=for-the-badge&logo=terraform&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=for-the-badge&logo=jenkins&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Tools-Ansible-informational?style=for-the-badge&logo=ansible&logoColor=white&color=333333)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon&logoColor=white&color=333333)
+- 🇵🇱 Based in Poland
+- 🌍 English · Russian · Polish
+- 💬 [LinkedIn](https://linkedin.com/in/g3rhard) is the best place to contact me
 
-## :fire: GitHub Analytics
+<table>
+<tr style="border: none!important">
+<td style="border: none!important" valign="top" width="50%">
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" width="400" height="200" border="0">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=g3rhard&theme=dark&hide_border=true&ring=FFFFFF&currStreakLabel=FFFFFF&background=333333&sideLabels=FFFFFF&dates=FFFFFF" alt="g3rhard" />
-    </td>
-    <td align="center" width="400" height="200" border="0">
-      <img src="https://github-readme-stats.vercel.app/api?username=g3rhard&count_private&show_icons=true&hide_border=true&compact=true&title_color=FFFFFF&icon_color=FF9926&bg_color=333333&text_color=FFFFFF" alt="Stats" width="400" />
-    </td>
-  </tr>
+### What I work with
+
+- Platform and cloud architecture
+- Infrastructure as Code
+- Kubernetes and GitOps
+- CI/CD and automation
+- Linux operations
+- Technical documentation
+
+</td>
+<td style="border: none!important" valign="top" width="50%">
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/AWS-333333?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-333333?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-333333?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-333333?style=flat-square&logo=ansible&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-333333?style=flat-square&logo=gitlab&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-333333?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+
+</td>
+</tr>
 </table>
 
----
-
 <p align="center">
-  <a href="https://linkedin.com/in/g3rhard" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-linkedin-333333?style=for-the-badge&logo=linkedin" alt="linkedin"/>
+  <a href="https://linkedin.com/in/g3rhard">
+    <img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://t.me/g3rhard" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-telegram-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/>
+  <a href="https://t.me/g3rhard">
+    <img src="https://img.shields.io/badge/Telegram-333333?style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://bio.link/g3rhard" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-biolink-333333?style=for-the-badge&logo=biolink" alt="biolink"/>
+  <a href="https://bio.link/g3rhard">
+    <img src="https://img.shields.io/badge/All_Links-333333?style=flat-square&logo=linktree&logoColor=white" alt="All links">
   </a>
 </p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=g3rhard&label=Profile%20views&color=333333&style=for-the-badge" alt="g3rhard" /></p>
