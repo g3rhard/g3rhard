@@ -1,6 +1,6 @@
 # Hi, I'm Kirill 👋
 
-**Platform Engineer & Architect** working with infrastructure, automation, and reliable systems.
+**Infrastructure · Automation · Systems**
 
 I build, automate, and document cloud platforms, delivery workflows, and operational tooling.
 
